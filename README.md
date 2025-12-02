@@ -48,6 +48,18 @@ Upper & lower uncertainty intervals
 
 Trend and seasonal component plots
 
+### 💡 Highlights:
+
+Processed daily price data (2,806 rows, 7 features)
+
+Performed exploratory analysis & resampling (monthly/yearly trends)
+
+Renamed columns (ds, y) & prepared Prophet-ready dataset
+
+Built a forecasting model to estimate future price movement
+
+Plotted forecast, uncertainty intervals & seasonal components
+
 ### 📌 Key Findings
 
 Gold price shows a strong long-term upward trend.
